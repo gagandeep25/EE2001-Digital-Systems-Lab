@@ -1,0 +1,5 @@
+module error(o1,o2,ERROR);
+	input o1,o2;
+	output ERROR;
+	assign ERROR=o1^o2;
+endmodule

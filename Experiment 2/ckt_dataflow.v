@@ -1,0 +1,23 @@
+module ckt_dataflow(a,b,c,d,e,f,y1,y2,y3,y4);
+	input a,b,c,d,e,f;
+	output y1,y2,y3,y4;
+	wire w1,w2,w3,w4,w5,w6,w7,w8,w9,w10,w11,w12,w13,w14;
+	assign w1=~d;
+	assign y1=w1&e;
+	assign w2=a&b;
+	assign w3=c|d;
+	assign w4=w2&w3;
+	assign y2=e^w4;
+	assign w5=e^f;
+	assign w6=w5|a;
+	assign w8=~a;
+	assign w9=b&e;
+	assign w10=w8^w9;
+	assign w7=w6&w10;
+	assign y3=w3^w7;
+	assign w11=c^f;
+	assign w12=w11&d;
+	assign w13=~w12;
+	assign w14=w10|w13;
+	assign y4=w14^b;
+endmodule

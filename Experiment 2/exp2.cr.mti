@@ -1,0 +1,22 @@
+{D:/Sem 2/EE2001/Lab/Experiment 2/ckt_gatelevel.v} {1 {vlog -work work -stats=none {D:/Sem 2/EE2001/Lab/Experiment 2/ckt_gatelevel.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ckt_gatelevel
+
+Top level modules:
+	ckt_gatelevel
+
+} {} {}} {D:/Sem 2/EE2001/Lab/Experiment 2/tb.v} {1 {vlog -work work -stats=none {D:/Sem 2/EE2001/Lab/Experiment 2/tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} {D:/Sem 2/EE2001/Lab/Experiment 2/verification.v} {1 {vlog -work work -stats=none {D:/Sem 2/EE2001/Lab/Experiment 2/verification.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module error
+
+Top level modules:
+	error
+
+} {} {}}

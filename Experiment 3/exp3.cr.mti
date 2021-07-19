@@ -1,0 +1,47 @@
+{D:/Sem 2/EE2001/Lab/Experiment 3/FL_1bit.v} {1 {vlog -work work -stats=none {D:/Sem 2/EE2001/Lab/Experiment 3/FL_1bit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FL_1bit
+
+Top level modules:
+	FL_1bit
+
+} {} {}} {D:/Sem 2/EE2001/Lab/Experiment 3/bitwise_operators.v} {1 {vlog -work work -stats=none {D:/Sem 2/EE2001/Lab/Experiment 3/bitwise_operators.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bitwise_and
+-- Compiling module bitwise_or
+-- Compiling module bitwise_xor
+
+Top level modules:
+	bitwise_and
+	bitwise_or
+	bitwise_xor
+
+} {} {}} {D:/Sem 2/EE2001/Lab/Experiment 3/tb.v} {1 {vlog -work work -stats=none {D:/Sem 2/EE2001/Lab/Experiment 3/tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} {D:/Sem 2/EE2001/Lab/Experiment 3/ALU.v} {1 {vlog -work work -stats=none {D:/Sem 2/EE2001/Lab/Experiment 3/ALU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/Sem 2/EE2001/Lab/Experiment 3/fulladder_gatelevel.v} {1 {vlog -work work -stats=none {D:/Sem 2/EE2001/Lab/Experiment 3/fulladder_gatelevel.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FL_8bit
+
+Top level modules:
+	FL_8bit
+
+} {} {}} {D:/Sem 2/EE2001/Lab/Experiment 3/tb_ALU.v} {1 {vlog -work work -stats=none {D:/Sem 2/EE2001/Lab/Experiment 3/tb_ALU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_ALU
+
+Top level modules:
+	tb_ALU
+
+} {} {}}

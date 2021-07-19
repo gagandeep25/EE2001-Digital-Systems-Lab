@@ -1,0 +1,23 @@
+module ckt_gatelevel(a,b,c,d,e,f,y1,y2,y3,y4);
+	input a,b,c,d,e,f;
+	output y1,y2,y3,y4;
+	wire w1,w2,w3,w4,w5,w6,w7,w8,w9,w10,w11,w12,w13,w14;
+	not i1(w1,d);
+	and i2(y1,w1,e);
+	and i3(w2,a,b);
+	and i4(w4,w2,w3);
+	or i5(w3,c,d);
+	xor i6(y2,e,w4);
+	xor i7(w5,e,f);
+	or i8(w6,w5,a);
+	and i9(w7,w6,w10);
+	xor i10(y3,w3,w7);
+	not i11(w8,a);
+	and i12(w9,b,e);
+	xor i13(w10,w9,w8);
+	xor i14(w11,c,f);
+	and i15(w12,w11,d);
+	not i16(w13,w12);
+	or i17(w14,w10,w13);
+	xor i18(y4,w14,b);
+endmodule

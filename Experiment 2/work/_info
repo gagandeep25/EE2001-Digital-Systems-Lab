@@ -1,0 +1,157 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vand_gate
+!s110 1580120653
+!i10b 1
+!s100 Vl6IzeTFU;lIGV^RGFKgW0
+IG]hQFP9Ffc]m:TCd@zEKE1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/Sem 2/EE2001/Lab/Experiment 2
+w1580119969
+Z2 8D:/Sem 2/EE2001/Lab/Experiment 2/ckt_gatelevel.v
+Z3 FD:/Sem 2/EE2001/Lab/Experiment 2/ckt_gatelevel.v
+L0 1
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1580120653.000000
+Z5 !s107 D:/Sem 2/EE2001/Lab/Experiment 2/ckt_gatelevel.v|
+Z6 !s90 -reportprogress|300|-work|work|-stats=none|D:/Sem 2/EE2001/Lab/Experiment 2/ckt_gatelevel.v|
+!s101 -O0
+!i113 1
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vand_gate_df
+Z8 !s110 1580120852
+!i10b 1
+!s100 Gl<Zj6oAe63VhGDDGFzPW3
+Ia3J^?OVQ2bf<<[>9JlmiN3
+R0
+R1
+w1580120711
+Z9 8D:/Sem 2/EE2001/Lab/Experiment 2/ckt_dataflow.v
+Z10 FD:/Sem 2/EE2001/Lab/Experiment 2/ckt_dataflow.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z11 !s108 1580120852.000000
+!s107 D:/Sem 2/EE2001/Lab/Experiment 2/ckt_dataflow.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|D:/Sem 2/EE2001/Lab/Experiment 2/ckt_dataflow.v|
+!s101 -O0
+!i113 1
+R7
+vand_gate_gl
+R8
+!i10b 1
+!s100 ENQ6HcAH<?Wb3jKm5F_T43
+I8YkFB>JUC1<7=`2CB_zbz3
+R0
+R1
+w1580120672
+R2
+R3
+L0 1
+R4
+r1
+!s85 0
+31
+R11
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+vckt_dataflow
+!s110 1580202538
+!i10b 1
+!s100 2:93e56Bim3kWn`8:8I120
+IL_f_RT04]HS<dWm3X5Bjk0
+R0
+R1
+w1580202531
+R9
+R10
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1580202538.000000
+!s107 D:/Sem 2/EE2001/Lab/Experiment 2/ckt_dataflow.v|
+R12
+!s101 -O0
+!i113 1
+R7
+vckt_gatelevel
+Z13 !s110 1580200392
+!i10b 1
+!s100 ddRaiX=V[9X7cHZ[hmm4L3
+Ijo[C;J=kVj:2Qz=omjzQj3
+R0
+R1
+w1580122689
+R2
+R3
+L0 1
+R4
+r1
+!s85 0
+31
+Z14 !s108 1580200392.000000
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+verror
+R13
+!i10b 1
+!s100 4kZGaE<dW8i;SF_oi[4>:0
+IVh1Fh_eD;:3^PR<__^N]`3
+R0
+R1
+w1580200292
+8D:/Sem 2/EE2001/Lab/Experiment 2/verification.v
+FD:/Sem 2/EE2001/Lab/Experiment 2/verification.v
+L0 1
+R4
+r1
+!s85 0
+31
+R14
+!s107 D:/Sem 2/EE2001/Lab/Experiment 2/verification.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Sem 2/EE2001/Lab/Experiment 2/verification.v|
+!s101 -O0
+!i113 1
+R7
+vtb
+R13
+!i10b 1
+!s100 HW5Tc?VAlYVTEZH?cHJ2W0
+I3S02JUJ4D]FGcJTL:V70m1
+R0
+R1
+w1580200386
+8D:/Sem 2/EE2001/Lab/Experiment 2/tb.v
+FD:/Sem 2/EE2001/Lab/Experiment 2/tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R14
+!s107 D:/Sem 2/EE2001/Lab/Experiment 2/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Sem 2/EE2001/Lab/Experiment 2/tb.v|
+!s101 -O0
+!i113 1
+R7
